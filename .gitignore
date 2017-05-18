@@ -1,3 +1,5 @@
 # folder logs
 log/
 txt-ignore/*.txt
+docs/
+.idea/
