@@ -1,6 +1,6 @@
 <?php
     echo "Hello, World";
-    echo "Hello, World";
-    echo "Hello, World";
-    echo "Hello, eddeted 2";
+    echo "Hello, Branch Master";
+    echo "Hello, Branch Master";
+    echo "Hello, edited line";
 ?>
