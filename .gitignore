@@ -3,3 +3,4 @@ log/
 txt-ignore/*.txt
 docs/
 .idea/
+index.php.orig
